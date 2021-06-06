@@ -1,0 +1,2 @@
+module CensusAnalyserUC2 {
+}
